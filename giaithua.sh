@@ -12,6 +12,3 @@ exit 0
 - Chạy chương trình : 
 chmod a+x giaithua.sh 
 ./giaithua 5 
-
-
-Read more: http://s4.zetaboards.com/51cthntu/topic/9285222/1/#ixzz4ergHzVNk
